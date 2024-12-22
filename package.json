@@ -1,5 +1,5 @@
 {
-  "name": "Smart-Job-Portal-AI",
+  "name": "smart-job-portal-ai",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mysql2": "^3.11.5",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "openai": "^4.77.0"
   }
 }
